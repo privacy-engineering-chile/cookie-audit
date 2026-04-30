@@ -3,7 +3,6 @@
 Cookie Audit es una herramienta CLI que mide el uso de cookies de un sitio web
 
 ![status](https://img.shields.io/badge/status-alpha-orange)
-![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Qué hace
 
