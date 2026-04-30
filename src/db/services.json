@@ -1,0 +1,2811 @@
+[
+   {
+      "id":1,
+      "name":"Google Analytics",
+      "slug":"google-analytics",
+      "description":"Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.",
+      "vendor":{
+         "name":"Google LLC",
+         "slug":"google-llc"
+      },
+      "popularity":"60.2",
+      "cookies":[
+         "_ga",
+         "_ga_",
+         "_gid",
+         "_gat_",
+         "_gat",
+         "__utmc",
+         "__utma",
+         "__utmz",
+         "__utmb",
+         "FPLC",
+         "FPID",
+         "__utmt",
+         "_dc_gtm_",
+         "FPGSID",
+         "_gtmeec"
+      ]
+   },
+   {
+      "id":2,
+      "name":"Google Ads",
+      "slug":"google-ads",
+      "description":"Google Ads is an advertising service by Google for businesses that want to display ads on Google search results and its advertising network.",
+      "vendor":{
+         "name":"Google Advertising Products",
+         "slug":"google-advertising-products"
+      },
+      "popularity":"19.8",
+      "cookies":[
+         "_gcl_au",
+         "IDE",
+         "test_cookie",
+         "_gcl_ls",
+         "NID",
+         "FPAU",
+         "CONSENT",
+         "_gcl_aw",
+         "DSID"
+      ]
+   },
+   {
+      "id":3,
+      "name":"Meta Pixel",
+      "slug":"meta-pixel",
+      "description":"A piece of code that lets businesses measure, optimise and build audiences for advertising campaigns.",
+      "vendor":{
+         "name":"Meta Platforms",
+         "slug":"meta-platforms"
+      },
+      "popularity":"18.2",
+      "cookies":[
+         "_fbp",
+         "lastExternalReferrer",
+         "lastExternalReferrerTime",
+         "topicsLastReferenceTime",
+         "fr"
+      ]
+   },
+   {
+      "id":4,
+      "name":"Hotjar",
+      "slug":"hotjar",
+      "description":"Hotjar is a product experience insights platform that gives you behavior analytics and feedback data to help you empathize with and understand your customers.",
+      "vendor":{
+         "name":"Hotjar",
+         "slug":"hotjar"
+      },
+      "popularity":"4.9",
+      "cookies":[
+         "_hjSessionUser_",
+         "_hjSession_",
+         "hjActiveViewportIds",
+         "hjViewportId",
+         "_hjAbsoluteSessionInProgress",
+         "_hjFirstSeen",
+         "_hjIncludedInSessionSample_",
+         "_hjIncludedInPageviewSample",
+         "_hjIncludedInSessionSample"
+      ]
+   },
+   {
+      "id":5,
+      "name":"CookieHub",
+      "slug":"cookiehub",
+      "description":"CookieHub is a Consent Management Platform (CMP) which allows users to control storage and processing of personal information.",
+      "vendor":{
+         "name":"CookieHub",
+         "slug":"cookiehub"
+      },
+      "popularity":"60.5",
+      "cookies":[
+         "cookiehub",
+         "cookiehub-ac",
+         "euconsent-v2"
+      ]
+   },
+   {
+      "id":6,
+      "name":"YouTube",
+      "slug":"youtube",
+      "description":"YouTube is a free video sharing website that makes it easy to watch online videos.",
+      "vendor":{
+         "name":"Google LLC",
+         "slug":"google-llc"
+      },
+      "popularity":"16.3",
+      "cookies":[
+         "YSC",
+         "VISITOR_INFO1_LIVE",
+         "VISITOR_PRIVACY_METADATA",
+         "__Secure-ROLLOUT_TOKEN",
+         "__Secure-YNID"
+      ]
+   },
+   {
+      "id":7,
+      "name":"Cloudflare",
+      "slug":"cloudflare",
+      "description":"Cloudflare is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.",
+      "vendor":{
+         "name":"Cloudflare, Inc.",
+         "slug":"cloudflare-inc"
+      },
+      "popularity":"31.9",
+      "cookies":[
+         "__cf_bm",
+         "_cfuvid",
+         "__cfruid",
+         "__cfduid"
+      ]
+   },
+   {
+      "id":8,
+      "name":"Google reCaptcha",
+      "slug":"google-recaptcha",
+      "description":"Google reCaptcha enables web hosts to distinguish between human and automated access to websites.",
+      "vendor":{
+         "name":"Google LLC",
+         "slug":"google-llc"
+      },
+      "popularity":"8.5",
+      "cookies":[
+         "_GRECAPTCHA",
+         "_grecaptcha"
+      ]
+   },
+   {
+      "id":9,
+      "name":"Vimeo",
+      "slug":"vimeo",
+      "description":"Vimeo, Inc. is an American video hosting, sharing, services provider, and broadcaster. Vimeo focuses on the delivery of high-definition video across a range of devices.",
+      "vendor":{
+         "name":"Vimeo",
+         "slug":"vimeo"
+      },
+      "popularity":"3.8",
+      "cookies":[
+         "vuid"
+      ]
+   },
+   {
+      "id":10,
+      "name":"LinkedIn Insight",
+      "slug":"linkedin-insight",
+      "description":"The LinkedIn Insight tag powers conversion tracking, website audiences, and website demographics within the LinkedIn system.",
+      "vendor":{
+         "name":"LinkedIn Ireland Unlimited Company",
+         "slug":"linkedin-ireland-unlimited-company"
+      },
+      "popularity":"5.6",
+      "cookies":[
+         "bcookie",
+         "AnalyticsSyncHistory",
+         "li_gc",
+         "bscookie",
+         "lidc",
+         "UserMatchHistory"
+      ]
+   },
+   {
+      "id":11,
+      "name":"Microsoft Ads",
+      "slug":"microsoft-ads",
+      "description":"Microsoft Advertising (formerly Bing Ads) is a service that provides pay per click advertising on the Bing, Yahoo!, and DuckDuckGo search engines.",
+      "vendor":{
+         "name":"Microsoft Corporation",
+         "slug":"microsoft-corporation"
+      },
+      "popularity":"7.1",
+      "cookies":[
+         "MUID",
+         "_uetsid",
+         "_uetvid",
+         "ANONCHK",
+         "SRM_B",
+         "_uetsid",
+         "_uetvid",
+         "_uetsid_exp",
+         "_uetvid_exp",
+         "MSPTC"
+      ]
+   },
+   {
+      "id":12,
+      "name":"Amazon Web Services",
+      "slug":"amazon-web-services",
+      "description":"Amazon Web Services offers a broad set of global cloud-based products including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.",
+      "vendor":{
+         "name":"Amazon Web Services, Inc.",
+         "slug":"amazon-web-services-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "AWSELBCORS"
+      ]
+   },
+   {
+      "id":13,
+      "name":"Snowplow",
+      "slug":"snowplow",
+      "description":"Snowplow enables teams to collect rich, high-quality behavioral data across all digital platforms with dedicated data product and privacy tooling.",
+      "vendor":{
+         "name":"Snowplow",
+         "slug":"snowplow"
+      },
+      "popularity":"3.2",
+      "cookies":[
+         "sp",
+         "_snow_ses.",
+         "_snow_id.",
+         "snowplowOutQueue_",
+         "_sp_ses.",
+         "_sp_id."
+      ]
+   },
+   {
+      "id":14,
+      "name":"Stripe",
+      "slug":"stripe",
+      "description":"Stripe is a payment processing platform that allows businesses to accept online payments, manage transactions, and handle recurring billing.",
+      "vendor":null,
+      "popularity":"1.8",
+      "cookies":[
+         "m",
+         "__stripe_mid",
+         "__stripe_sid"
+      ]
+   },
+   {
+      "id":15,
+      "name":"AppNexus",
+      "slug":"appnexus",
+      "description":"",
+      "vendor":null,
+      "popularity":"0.4",
+      "cookies":[
+         "uuid2",
+         "anj"
+      ]
+   },
+   {
+      "id":16,
+      "name":"AddThis",
+      "slug":"addthis",
+      "description":"AddThis is a social sharing tool that allows websites to easily integrate social media sharing buttons.",
+      "vendor":null,
+      "popularity":"1.3",
+      "cookies":[
+         "uid",
+         "ouid",
+         "__atuvc",
+         "__atuvs",
+         "uvc",
+         "loc"
+      ]
+   },
+   {
+      "id":17,
+      "name":"WooCommerce",
+      "slug":"woocommerce",
+      "description":"WooCommerce is an open-source eCommerce platform for WordPress, allowing businesses to create and manage online stores.",
+      "vendor":null,
+      "popularity":"1.9",
+      "cookies":[
+         "wp_woocommerce_session_",
+         "woocommerce_cart_hash",
+         "woocommerce_items_in_cart",
+         "wc_cart_created",
+         "tk_or",
+         "tk_lr",
+         "tk_r3d",
+         "tk_ai",
+         "storeApiNonce",
+         "woocommerce_recently_viewed"
+      ]
+   },
+   {
+      "id":18,
+      "name":"HubSpot",
+      "slug":"hubspot",
+      "description":"HubSpot is a CRM platform that provides tools for marketing, sales, and customer service.",
+      "vendor":{
+         "name":"HubSpot",
+         "slug":"hubspot"
+      },
+      "popularity":"2.5",
+      "cookies":[
+         "__hstc",
+         "hubspotutk",
+         "__hssc",
+         "__hssrc"
+      ]
+   },
+   {
+      "id":19,
+      "name":"Windows Azure",
+      "slug":"windows-azure",
+      "description":"Microsoft Azure is a cloud computing platform offering a wide range of services, including virtual machines, databases, and AI tools.",
+      "vendor":null,
+      "popularity":"1.2",
+      "cookies":[
+         "ARRAffinitySameSite",
+         "ARRAffinity"
+      ]
+   },
+   {
+      "id":20,
+      "name":"Microsoft Clarity",
+      "slug":"microsoft-clarity",
+      "description":"Clarity is a user behavior analytics tool that helps you understand how users interact with your website.",
+      "vendor":{
+         "name":"Microsoft Corporation",
+         "slug":"microsoft-corporation"
+      },
+      "popularity":"5.6",
+      "cookies":[
+         "_clsk",
+         "_clck",
+         "MR",
+         "_cltk",
+         "ANONCHK",
+         "SM",
+         "CLID"
+      ]
+   },
+   {
+      "id":21,
+      "name":"Quantserve",
+      "slug":"quantserve",
+      "description":"",
+      "vendor":{
+         "name":"Quantcast",
+         "slug":"quantcast"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "mc"
+      ]
+   },
+   {
+      "id":22,
+      "name":"Matomo",
+      "slug":"matomo",
+      "description":"Matomo is an open-source web analytics platform that provides detailed reports on website traffic, marketing campaigns, and user engagement.",
+      "vendor":null,
+      "popularity":"2.0",
+      "cookies":[
+         "_pk_id.",
+         "_pk_ses."
+      ]
+   },
+   {
+      "id":23,
+      "name":"Tawk.to",
+      "slug":"tawkto",
+      "description":"",
+      "vendor":null,
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":24,
+      "name":"Shopify",
+      "slug":"shopify",
+      "description":"Shopify is an eCommerce platform that allows businesses to create, manage, and scale online stores.",
+      "vendor":null,
+      "popularity":"1.0",
+      "cookies":[
+         "_shopify_y",
+         "_shopify_s",
+         "cart_currency",
+         "_shopify_essential",
+         "_tracking_consent",
+         "secure_customer_sig",
+         "_orig_referrer",
+         "_landing_page",
+         "_shopify_sa_p",
+         "_shopify_sa_t",
+         "shopify_pay_redirect",
+         "_s",
+         "_y",
+         "shopifyChatData"
+      ]
+   },
+   {
+      "id":25,
+      "name":"Wordpress",
+      "slug":"wordpress",
+      "description":"WordPress is a widely-used content management system (CMS) that enables users to create and manage websites and blogs easily.",
+      "vendor":{
+         "name":"Wordpress",
+         "slug":"wordpress"
+      },
+      "popularity":"1.4",
+      "cookies":[
+         "wordpress_test_cookie",
+         "tk_qs"
+      ]
+   },
+   {
+      "id":26,
+      "name":"Bidswitch",
+      "slug":"bidswitch",
+      "description":"",
+      "vendor":{
+         "name":"BIDSWITCH GmbH",
+         "slug":"bidswitch-gmbh"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "tuuid",
+         "tuuid_lu"
+      ]
+   },
+   {
+      "id":27,
+      "name":"MediaMath",
+      "slug":"mediamath",
+      "description":"",
+      "vendor":{
+         "name":"MediaMath, Inc.",
+         "slug":"mediamath-inc"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "uuid"
+      ]
+   },
+   {
+      "id":28,
+      "name":"Microsoft ASP.Net",
+      "slug":"microsoft-aspnet",
+      "description":"ASP.NET is an open source web framework, created by Microsoft, for building modern web apps and services.",
+      "vendor":{
+         "name":"Microsoft Corporation",
+         "slug":"microsoft-corporation"
+      },
+      "popularity":"1.0",
+      "cookies":[
+         "ASP.NET_SessionId",
+         "ASPSESSIONID",
+         "__RequestVerificationToken"
+      ]
+   },
+   {
+      "id":29,
+      "name":"Rapleaf",
+      "slug":"rapleaf",
+      "description":"",
+      "vendor":{
+         "name":"Rapleaf",
+         "slug":"rapleaf"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "pxrc",
+         "rlas3"
+      ]
+   },
+   {
+      "id":30,
+      "name":"Paypal",
+      "slug":"paypal",
+      "description":"",
+      "vendor":{
+         "name":"Paypal",
+         "slug":"paypal"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "__paypal_storage__",
+         "ts",
+         "l7_az",
+         "ts_c",
+         "tsrce",
+         "__paypal-",
+         "nsid",
+         "KHcl0EuY7AKSMgfvHl7J5E7hPtK",
+         "x-pp-s",
+         "sc_f",
+         "enforce_policy"
+      ]
+   },
+   {
+      "id":31,
+      "name":"Yahoo Gemini",
+      "slug":"yahoo-gemini",
+      "description":"",
+      "vendor":{
+         "name":"Yahoo EMEA Limited",
+         "slug":"yahoo-emea-limited"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "A3"
+      ]
+   },
+   {
+      "id":32,
+      "name":"Leadfeeder",
+      "slug":"leadfeeder",
+      "description":"Leadfeeder is a B2B visitor identification software that tracks and identifies companies that visit a website.",
+      "vendor":{
+         "name":"Dealfront",
+         "slug":"dealfront"
+      },
+      "popularity":"1.1",
+      "cookies":[
+         "_lfa",
+         "_lfa",
+         "_lfa_expiry"
+      ]
+   },
+   {
+      "id":33,
+      "name":"Help Scout",
+      "slug":"help-scout",
+      "description":"",
+      "vendor":{
+         "name":"Help Scout",
+         "slug":"help-scout"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "hs-beacon-"
+      ]
+   },
+   {
+      "id":34,
+      "name":"Inspectlet",
+      "slug":"inspectlet",
+      "description":"",
+      "vendor":{
+         "name":"Inspectlet",
+         "slug":"inspectlet"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "__insp_targlpt",
+         "__insp_nv",
+         "__insp_wid",
+         "__insp_targlpu",
+         "__insp_slim"
+      ]
+   },
+   {
+      "id":35,
+      "name":"Google Maps",
+      "slug":"google-maps",
+      "description":"Google Maps is a web mapping platform offering satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets, real-time traffic conditions, and route planning.",
+      "vendor":{
+         "name":"Google LLC",
+         "slug":"google-llc"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":36,
+      "name":"Crazy Egg",
+      "slug":"crazy-egg",
+      "description":"",
+      "vendor":{
+         "name":"Crazy Egg",
+         "slug":"crazy-egg"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":37,
+      "name":"Google Remarketing",
+      "slug":"google-remarketing",
+      "description":"Google Remarketing ads allow businesses to show targeted ads to the users who visited the website and didn't complete a conversion.",
+      "vendor":{
+         "name":"Google Advertising Products",
+         "slug":"google-advertising-products"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":38,
+      "name":"Tiktok Analytics",
+      "slug":"tiktok-analytics",
+      "description":"",
+      "vendor":{
+         "name":"BYTEDANCE PTE. LTD.",
+         "slug":"bytedance-pte-ltd"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":39,
+      "name":"ShareThis",
+      "slug":"sharethis",
+      "description":"",
+      "vendor":{
+         "name":"ShareThis, Inc",
+         "slug":"sharethis-inc"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":40,
+      "name":"AddToAny",
+      "slug":"addtoany",
+      "description":"",
+      "vendor":{
+         "name":"AddToAny",
+         "slug":"addtoany"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":41,
+      "name":"Casale Media",
+      "slug":"casale-media",
+      "description":"",
+      "vendor":{
+         "name":"Casale Media",
+         "slug":"casale-media"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "CMID",
+         "CMPRO"
+      ]
+   },
+   {
+      "id":42,
+      "name":"Elfsight",
+      "slug":"elfsight",
+      "description":"",
+      "vendor":{
+         "name":"Elfsight",
+         "slug":"elfsight"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":43,
+      "name":"Squarespace",
+      "slug":"squarespace",
+      "description":"Squarespace is an all-in-one website building platform that allows users to create professional websites and online stores with customizable templates.",
+      "vendor":{
+         "name":"Squarespace",
+         "slug":"squarespace"
+      },
+      "popularity":"1.1",
+      "cookies":[
+         "crumb",
+         "ss_cvt",
+         "ss_cvr"
+      ]
+   },
+   {
+      "id":44,
+      "name":"Akamai",
+      "slug":"akamai",
+      "description":"",
+      "vendor":{
+         "name":"Akamai Technologies Inc.",
+         "slug":"akamai-technologies-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "ak_bmsc",
+         "_abck",
+         "bm_sz",
+         "bm_sv",
+         "RT"
+      ]
+   },
+   {
+      "id":45,
+      "name":"PubMatic",
+      "slug":"pubmatic",
+      "description":"",
+      "vendor":{
+         "name":"PubMatic, Inc",
+         "slug":"pubmatic-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "PugT"
+      ]
+   },
+   {
+      "id":46,
+      "name":"Adobe ColdFusion",
+      "slug":"adobe-coldfusion",
+      "description":"Adobe ColdFusion is a web application development platform that enables rapid development of dynamic websites and applications.",
+      "vendor":{
+         "name":"Adobe Inc.",
+         "slug":"adobe-inc"
+      },
+      "popularity":"0.9",
+      "cookies":[
+         "CFID"
+      ]
+   },
+   {
+      "id":47,
+      "name":"Adobe Audience Manager",
+      "slug":"adobe-audience-manager",
+      "description":"",
+      "vendor":{
+         "name":"Adobe Audience Manager, Adobe Experience Platform",
+         "slug":"adobe-audience-manager-adobe-experience-platform"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "demdex",
+         "dpm"
+      ]
+   },
+   {
+      "id":48,
+      "name":"Adobe Audience Manager",
+      "slug":"adobe-audience-manager",
+      "description":"",
+      "vendor":{
+         "name":"Adobe Audience Manager, Adobe Experience Platform",
+         "slug":"adobe-audience-manager-adobe-experience-platform"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":49,
+      "name":"Pinterest",
+      "slug":"pinterest",
+      "description":"Pinterest is a visual discovery platform where users can find, save, and share ideas through images and videos.",
+      "vendor":{
+         "name":"Pinterest",
+         "slug":"pinterest"
+      },
+      "popularity":"1.0",
+      "cookies":[
+         "_pin_unauth",
+         "_pinterest_ct_ua",
+         "is_eu"
+      ]
+   },
+   {
+      "id":50,
+      "name":"Pinterest",
+      "slug":"pinterest",
+      "description":"Pinterest is a visual discovery platform where users can find, save, and share ideas through images and videos.",
+      "vendor":{
+         "name":"Pinterest",
+         "slug":"pinterest"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":51,
+      "name":"The Trade Desk",
+      "slug":"the-trade-desk",
+      "description":"",
+      "vendor":{
+         "name":"The UK Trade Desk Ltd",
+         "slug":"the-uk-trade-desk-ltd"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "TDID",
+         "TDCPM"
+      ]
+   },
+   {
+      "id":52,
+      "name":"Drupal",
+      "slug":"drupal",
+      "description":"",
+      "vendor":{
+         "name":"Drupal",
+         "slug":"drupal"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "has_js"
+      ]
+   },
+   {
+      "id":53,
+      "name":"Mailchimp",
+      "slug":"mailchimp",
+      "description":"Mailchimp is a marketing automation and email marketing service used to manage mailing lists, send newsletters and campaigns, and track user interactions such as email opens, link clicks, and conversions.",
+      "vendor":{
+         "name":"The Rocket Science Group LLC",
+         "slug":"the-rocket-science-group-llc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "mailchimp_landing_site"
+      ]
+   },
+   {
+      "id":54,
+      "name":"Wix",
+      "slug":"wix",
+      "description":"",
+      "vendor":{
+         "name":"Wix.com Ltd.",
+         "slug":"wixcom-ltd"
+      },
+      "popularity":"0.7",
+      "cookies":[
+         "bSession",
+         "svSession",
+         "hs"
+      ]
+   },
+   {
+      "id":55,
+      "name":"Lotame",
+      "slug":"lotame",
+      "description":"",
+      "vendor":{
+         "name":"Lotame Solutions, Inc",
+         "slug":"lotame-solutions-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":56,
+      "name":"Magento",
+      "slug":"magento",
+      "description":"",
+      "vendor":{
+         "name":"Magento Inc.",
+         "slug":"magento-inc"
+      },
+      "popularity":"0.9",
+      "cookies":[
+         "form_key",
+         "mage-cache-sessid",
+         "mage-cache-storage",
+         "recently_viewed_product_previous",
+         "mage-cache-storage-section-invalidation",
+         "recently_viewed_product",
+         "mage-messages",
+         "product_data_storage",
+         "recently_compared_product_previous",
+         "recently_compared_product",
+         "section_data_ids"
+      ]
+   },
+   {
+      "id":57,
+      "name":"Chatflows",
+      "slug":"chatflows",
+      "description":"",
+      "vendor":{
+         "name":"Hubspot",
+         "slug":"hubspot"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "messagesUtk"
+      ]
+   },
+   {
+      "id":58,
+      "name":"Weebly",
+      "slug":"weebly",
+      "description":"",
+      "vendor":{
+         "name":"Block, Inc.",
+         "slug":"block-inc"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "sto-id-editor",
+         "WeeblyDiceRollUser",
+         "sto-id-pages-k8s"
+      ]
+   },
+   {
+      "id":59,
+      "name":"Quantcast",
+      "slug":"quantcast",
+      "description":"",
+      "vendor":{
+         "name":"Quantcast",
+         "slug":"quantcast"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":60,
+      "name":"WordPress Multilingual",
+      "slug":"wordpress-multilingual",
+      "description":"WPML allows users to create multilingual websites, enabling content to be translated and displayed in multiple languages.",
+      "vendor":{
+         "name":"OnTheGoSystems",
+         "slug":"onthegosystems"
+      },
+      "popularity":"2.0",
+      "cookies":[
+         "wp-wpml_current_language"
+      ]
+   },
+   {
+      "id":61,
+      "name":"Yandex.Metrika",
+      "slug":"yandexmetrika",
+      "description":"Yandex Metrica is a free web analytics service offered by Yandex that tracks and reports website traffic.",
+      "vendor":{
+         "name":"Yandex",
+         "slug":"yandex"
+      },
+      "popularity":"1.0",
+      "cookies":[
+         "yandexuid",
+         "sync_cookie_csrf",
+         "yuidss",
+         "bh",
+         "ymex",
+         "yabs-sid",
+         "_ym_isad",
+         "_ym_d",
+         "_ym_uid",
+         "sync_cookie_ok",
+         "_ym_visorc",
+         "_ym",
+         "__ym_tab_guid",
+         "yp"
+      ]
+   },
+   {
+      "id":62,
+      "name":"Spotify",
+      "slug":"spotify",
+      "description":"",
+      "vendor":{
+         "name":"Spotify AB",
+         "slug":"spotify-ab"
+      },
+      "popularity":"0.6",
+      "cookies":[
+         "sp_t",
+         "sp_landing",
+         "__spdt",
+         "__spdt",
+         "spdt-"
+      ]
+   },
+   {
+      "id":63,
+      "name":"Twitter / X",
+      "slug":"twitter-x",
+      "description":"Twitter is an online news and social networking site where people communicate in short messages called tweets.",
+      "vendor":{
+         "name":"X Corp.",
+         "slug":"x-corp"
+      },
+      "popularity":"0.8",
+      "cookies":[
+         "muc_ads",
+         "personalization_id",
+         "guest_id_ads",
+         "guest_id_marketing",
+         "guest_id",
+         "_twpid"
+      ]
+   },
+   {
+      "id":64,
+      "name":"TikTok Pixel",
+      "slug":"tiktok-pixel",
+      "description":"TikTok Pixel is an advertising and analytics tool that tracks how visitors interact with a website after viewing or clicking a TikTok ad. It enables conversion attribution, campaign measurement, retargeting, and audience creation for TikTok Ads. The data collected is used to optimize ad delivery and improve the effectiveness of marketing campaigns.",
+      "vendor":{
+         "name":"TikTok Inc.",
+         "slug":"tiktok-inc"
+      },
+      "popularity":"3.2",
+      "cookies":[
+         "_ttp",
+         "_tt_enable_cookie",
+         "ttcsid_",
+         "tt_sessionId",
+         "tt_pixel_session_index",
+         "tt_appInfo",
+         "ttcsid",
+         "tt_appInfo_v2",
+         "ttclid",
+         "msToken",
+         "tt_s_pixel_session_index"
+      ]
+   },
+   {
+      "id":65,
+      "name":"Zendesk",
+      "slug":"zendesk",
+      "description":"",
+      "vendor":{
+         "name":"Zendesk",
+         "slug":"zendesk"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "__zlcmid"
+      ]
+   },
+   {
+      "id":66,
+      "name":"TripleLift",
+      "slug":"triplelift",
+      "description":"",
+      "vendor":{
+         "name":"TripleLift, Inc.",
+         "slug":"triplelift-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":67,
+      "name":"Tapad",
+      "slug":"tapad",
+      "description":"",
+      "vendor":{
+         "name":"Tapad, Inc.",
+         "slug":"tapad-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "TapAd_DID",
+         "TapAd_TS",
+         "TapAd_3WAY_SYNCS"
+      ]
+   },
+   {
+      "id":68,
+      "name":"Salesforce DMP",
+      "slug":"salesforce-dmp",
+      "description":"",
+      "vendor":{
+         "name":"Salesforce.com, Inc.",
+         "slug":"salesforcecom-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":69,
+      "name":"Issuu",
+      "slug":"issuu",
+      "description":"",
+      "vendor":{
+         "name":"Issuu, Inc.",
+         "slug":"issuu-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "iutk"
+      ]
+   },
+   {
+      "id":70,
+      "name":"SmartSupp",
+      "slug":"smartsupp",
+      "description":"",
+      "vendor":{
+         "name":"SmartSupp",
+         "slug":"smartsupp"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "ssupp.vid"
+      ]
+   },
+   {
+      "id":71,
+      "name":"Unsplash",
+      "slug":"unsplash",
+      "description":"",
+      "vendor":{
+         "name":"Unsplash",
+         "slug":"unsplash"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":72,
+      "name":"Typeform",
+      "slug":"typeform",
+      "description":"",
+      "vendor":{
+         "name":"Typeform",
+         "slug":"typeform"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "attribution_user_id",
+         "tf_respondent_cc"
+      ]
+   },
+   {
+      "id":73,
+      "name":"Outbrain",
+      "slug":"outbrain",
+      "description":"",
+      "vendor":{
+         "name":"Outbrain UK Ltd",
+         "slug":"outbrain-uk-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":74,
+      "name":"Roku",
+      "slug":"roku",
+      "description":"",
+      "vendor":{
+         "name":"Roku Advertising Services",
+         "slug":"roku-advertising-services"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "wfivefivec"
+      ]
+   },
+   {
+      "id":75,
+      "name":"Zeotap",
+      "slug":"zeotap",
+      "description":"",
+      "vendor":{
+         "name":"zeotap GmbH",
+         "slug":"zeotap-gmbh"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":76,
+      "name":"Adobe Advertising Cloud",
+      "slug":"adobe-advertising-cloud",
+      "description":"",
+      "vendor":{
+         "name":"Adobe Inc.",
+         "slug":"adobe-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "everest_g_v2"
+      ]
+   },
+   {
+      "id":77,
+      "name":"SoundCloud",
+      "slug":"soundcloud",
+      "description":"",
+      "vendor":{
+         "name":"SoundCloud",
+         "slug":"soundcloud"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":78,
+      "name":"Google AdSense",
+      "slug":"google-adsense",
+      "description":"Google Ads is an advertising service by Google for businesses that want to display ads on Google search results and its advertising network.",
+      "vendor":{
+         "name":"Google Advertising Products",
+         "slug":"google-advertising-products"
+      },
+      "popularity":"0.8",
+      "cookies":[
+         "google_auto_fc_cmp_setting",
+         "__eoi",
+         "google_adsense_settings"
+      ]
+   },
+   {
+      "id":79,
+      "name":"Adform",
+      "slug":"adform",
+      "description":"",
+      "vendor":{
+         "name":"Adform A/S",
+         "slug":"adform-as"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "arcki2_adform",
+         "matchadform",
+         "_rxuuid",
+         "arcki2_ddp2"
+      ]
+   },
+   {
+      "id":80,
+      "name":"Microsoft Application Insights",
+      "slug":"microsoft-application-insights",
+      "description":"",
+      "vendor":{
+         "name":"Microsoft Corporation",
+         "slug":"microsoft-corporation"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "ai_session"
+      ]
+   },
+   {
+      "id":81,
+      "name":"Embedly",
+      "slug":"embedly",
+      "description":"",
+      "vendor":{
+         "name":"Embedly",
+         "slug":"embedly"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":82,
+      "name":"Criteo",
+      "slug":"criteo",
+      "description":"",
+      "vendor":{
+         "name":"Criteo SA",
+         "slug":"criteo-sa"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "cto_bundle",
+         "criteo"
+      ]
+   },
+   {
+      "id":83,
+      "name":"ProcessWire",
+      "slug":"processwire",
+      "description":"",
+      "vendor":{
+         "name":"ProcessWire",
+         "slug":"processwire"
+      },
+      "popularity":"0.8",
+      "cookies":[
+         "wires"
+      ]
+   },
+   {
+      "id":84,
+      "name":"Klaviyo",
+      "slug":"klaviyo",
+      "description":"Identifies visitors for linking on-site activity to Klaviyo marketing profiles and enabling personalized campaigns.",
+      "vendor":{
+         "name":"Klaviyo",
+         "slug":"klaviyo"
+      },
+      "popularity":"1.0",
+      "cookies":[
+         "__kla_id",
+         "klaviyoOnsite",
+         "__kl_key",
+         "kl-post-identification-sync",
+         "klaviyoPagesVisitCount",
+         "__kla_viewed",
+         "__kla_viewed_reviewed_items"
+      ]
+   },
+   {
+      "id":85,
+      "name":"eviivo",
+      "slug":"eviivo",
+      "description":"Cloud-based booking and property management platform providing hosts and owners of independent hotels, B&Bs, vacation rentals, villas, urban rentals and property management companies with a simple way to manage guests, bookings and travel agencies through its powerful technology.",
+      "vendor":{
+         "name":"eviivo Limited",
+         "slug":"eviivo-limited"
+      },
+      "popularity":"4.5",
+      "cookies":[
+         "UserSettings"
+      ]
+   },
+   {
+      "id":86,
+      "name":"OpenTable",
+      "slug":"opentable",
+      "description":"OpenTable is a real-time online reservation network for fine dining restaurants.",
+      "vendor":{
+         "name":"OpenTable, Inc",
+         "slug":"opentable-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":87,
+      "name":"OneSignal",
+      "slug":"onesignal",
+      "description":"",
+      "vendor":{
+         "name":"OneSignal, Inc.",
+         "slug":"onesignal-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":88,
+      "name":"LiveChat",
+      "slug":"livechat",
+      "description":"",
+      "vendor":{
+         "name":"LiveChat",
+         "slug":"livechat"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "__lc_cid",
+         "__lc_cst"
+      ]
+   },
+   {
+      "id":89,
+      "name":"Datadog",
+      "slug":"datadog",
+      "description":"",
+      "vendor":{
+         "name":"Datadog",
+         "slug":"datadog"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "_dd_s"
+      ]
+   },
+   {
+      "id":90,
+      "name":"Visual Website Optimizer",
+      "slug":"visual-website-optimizer",
+      "description":"",
+      "vendor":{
+         "name":"Visual Website Optimizer",
+         "slug":"visual-website-optimizer"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "_vwo_uuid_v2"
+      ]
+   },
+   {
+      "id":91,
+      "name":"POWR",
+      "slug":"powr",
+      "description":"",
+      "vendor":{
+         "name":"POWR",
+         "slug":"powr"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "ahoy_visit",
+         "ahoy_visitor",
+         "ahoy_unique_",
+         "unique_id"
+      ]
+   },
+   {
+      "id":92,
+      "name":"Taboola",
+      "slug":"taboola",
+      "description":"",
+      "vendor":{
+         "name":"Taboola Europe Limited",
+         "slug":"taboola-europe-limited"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":93,
+      "name":"TYPO3",
+      "slug":"typo3",
+      "description":"",
+      "vendor":{
+         "name":"TYPO3 GmbH",
+         "slug":"typo3-gmbh"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "fe_typo_user"
+      ]
+   },
+   {
+      "id":94,
+      "name":"Sharethrough",
+      "slug":"sharethrough",
+      "description":"",
+      "vendor":{
+         "name":"Sharethrough, Inc",
+         "slug":"sharethrough-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":95,
+      "name":"CodeIgniter",
+      "slug":"codeigniter",
+      "description":"",
+      "vendor":{
+         "name":"CodeIgniter Foundation",
+         "slug":"codeigniter-foundation"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "ci_session"
+      ]
+   },
+   {
+      "id":96,
+      "name":"OnAudience",
+      "slug":"onaudience",
+      "description":"",
+      "vendor":{
+         "name":"OnAudience Ltd",
+         "slug":"onaudience-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":97,
+      "name":"Atlas Solutions",
+      "slug":"atlas-solutions",
+      "description":"",
+      "vendor":{
+         "name":"Atlas Solutions",
+         "slug":"atlas-solutions"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":98,
+      "name":"Calendly",
+      "slug":"calendly",
+      "description":"",
+      "vendor":{
+         "name":"Calendly",
+         "slug":"calendly"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":99,
+      "name":"Snapchat",
+      "slug":"snapchat",
+      "description":"",
+      "vendor":{
+         "name":"Snap Inc.",
+         "slug":"snap-inc"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "X-AB",
+         "sc_at"
+      ]
+   },
+   {
+      "id":100,
+      "name":"OptinMonster",
+      "slug":"optinmonster",
+      "description":"",
+      "vendor":{
+         "name":"OptinMonster",
+         "slug":"optinmonster"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "_omappvp",
+         "_omappvs",
+         "omVisitsFirst",
+         "omVisits"
+      ]
+   },
+   {
+      "id":101,
+      "name":"Baidu",
+      "slug":"baidu",
+      "description":"Baidu pay per click advertising platform.",
+      "vendor":{
+         "name":"Baidu USA",
+         "slug":"baidu-usa"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":102,
+      "name":"Piwik PRO",
+      "slug":"piwik-pro",
+      "description":"",
+      "vendor":{
+         "name":"Piwik",
+         "slug":"piwik"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "ppms_privacy_"
+      ]
+   },
+   {
+      "id":114,
+      "name":"FullStory",
+      "slug":"fullstory",
+      "description":"FullStory provides digital experience analytics and session replay technology. It allows website owners to capture anonymized visitor interactions (such as clicks, scrolls, and navigation) for usability analysis, troubleshooting, and improving user experience.",
+      "vendor":{
+         "name":"FullStory, Inc",
+         "slug":"fullstory-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "fs_uid",
+         "_fs_uid",
+         "_fs_tab_id",
+         "_fs_lua",
+         "fs_lua"
+      ]
+   },
+   {
+      "id":115,
+      "name":"CHEQ",
+      "slug":"cheq",
+      "description":"",
+      "vendor":{
+         "name":"CHEQ AI TECHNOLOGIES",
+         "slug":"cheq-ai-technologies"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "_cq_duid",
+         "_cq_suid",
+         "cg_uuid"
+      ]
+   },
+   {
+      "id":126,
+      "name":"Loom videos",
+      "slug":"loom-videos",
+      "description":"",
+      "vendor":{
+         "name":"Loom Inc.",
+         "slug":"loom-inc"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":142,
+      "name":"Reddit",
+      "slug":"reddit",
+      "description":"Reddit is a website with user-generated content and discussions of that content.",
+      "vendor":{
+         "name":"Reddit, Inc.",
+         "slug":"reddit-inc"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "_rdt_uuid",
+         "_rdt_em"
+      ]
+   },
+   {
+      "id":148,
+      "name":"Olark",
+      "slug":"olark",
+      "description":"Olark is a chat tool that allows businesses to have in-person conversations with customers, prospects, and employees.",
+      "vendor":{
+         "name":"Habla, Inc",
+         "slug":"habla-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":151,
+      "name":"Firebase",
+      "slug":"firebase",
+      "description":"",
+      "vendor":{
+         "name":"Google LLC",
+         "slug":"google-llc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "firebase:host:"
+      ]
+   },
+   {
+      "id":154,
+      "name":"Siteimprove",
+      "slug":"siteimprove",
+      "description":"",
+      "vendor":{
+         "name":"Siteimprove",
+         "slug":"siteimprove"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "nmstat"
+      ]
+   },
+   {
+      "id":155,
+      "name":"Segment",
+      "slug":"segment",
+      "description":"",
+      "vendor":{
+         "name":"Twilio Inc.",
+         "slug":"twilio-inc"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "ajs_anonymous_id",
+         "ajs_anonymous_id"
+      ]
+   },
+   {
+      "id":157,
+      "name":"HiJiffy",
+      "slug":"hijiffy",
+      "description":"",
+      "vendor":{
+         "name":"HiJiffy",
+         "slug":"hijiffy"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":163,
+      "name":"Kilkaya",
+      "slug":"kilkaya",
+      "description":"",
+      "vendor":{
+         "name":"Kilkaya",
+         "slug":"kilkaya"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":164,
+      "name":"Bitmovin",
+      "slug":"bitmovin",
+      "description":"",
+      "vendor":{
+         "name":"Bitmovin",
+         "slug":"bitmovin"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":183,
+      "name":"AdRoll",
+      "slug":"adroll",
+      "description":"",
+      "vendor":{
+         "name":"NextRoll, Inc.",
+         "slug":"nextroll-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "__adroll"
+      ]
+   },
+   {
+      "id":185,
+      "name":"Mixpanel",
+      "slug":"mixpanel",
+      "description":"Mixpanel is a powerful real-time analytics platform that helps companies measure and optimize user engagement.",
+      "vendor":{
+         "name":"Mixpanel",
+         "slug":"mixpanel"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "mp_"
+      ]
+   },
+   {
+      "id":186,
+      "name":"PostHog Analytics",
+      "slug":"posthog-analytics",
+      "description":"PostHog is a product analytics suite built for the modern enterprise, with the differentiators of being open source and having a broader view of the tools needed to make a product successful.",
+      "vendor":{
+         "name":"PostHog, Inc.",
+         "slug":"posthog-inc"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "ph_phc_",
+         "ph_phc_"
+      ]
+   },
+   {
+      "id":187,
+      "name":"Pardot",
+      "slug":"pardot",
+      "description":"",
+      "vendor":null,
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":188,
+      "name":"Insider",
+      "slug":"insider",
+      "description":"Platform for individualized, cross-channel customer experiences.",
+      "vendor":{
+         "name":"Insider",
+         "slug":"insider"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":193,
+      "name":"Jetlink",
+      "slug":"jetlink",
+      "description":"",
+      "vendor":{
+         "name":"Jetlink",
+         "slug":"jetlink"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":196,
+      "name":"StackAdapt",
+      "slug":"stackadapt",
+      "description":"Multi-channel programmatic advertising platform.",
+      "vendor":{
+         "name":"StackAdapt Inc.",
+         "slug":"stackadapt-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "sa-user-id-v2",
+         "sa-user-id-v3",
+         "sa-user-id",
+         "sa-user-id",
+         "sa-user-id-v2",
+         "sa-user-id-v3"
+      ]
+   },
+   {
+      "id":197,
+      "name":"Intercom",
+      "slug":"intercom",
+      "description":"Customer service solution that combines an AI chatbot, help desk, and proactive support.",
+      "vendor":{
+         "name":"Intercom R&D Unlimited Company",
+         "slug":"intercom-rd-unlimited-company"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "intercom-id-",
+         "intercom-device-id-",
+         "intercom-session-",
+         "intercom.intercom-state-"
+      ]
+   },
+   {
+      "id":204,
+      "name":"Twitch",
+      "slug":"twitch",
+      "description":"Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more.",
+      "vendor":{
+         "name":"Twitch Interactive Inc",
+         "slug":"twitch-interactive-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":205,
+      "name":"Echobox",
+      "slug":"echobox",
+      "description":"Echobox is a tool for increasing social media presence and driving traffic websites.",
+      "vendor":{
+         "name":"Echobox Limited",
+         "slug":"echobox-limited"
+      },
+      "popularity":null,
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":238,
+      "name":"TruConversion",
+      "slug":"truconversion",
+      "description":"TruConversion is an all-in-one analytics and feedback application that provides website and mobile visitor insights. It helps website owners understand the behaviour of visitors and assists in converting them into customers.",
+      "vendor":{
+         "name":"TruConversion",
+         "slug":"truconversion"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":240,
+      "name":"GA Connector",
+      "slug":"ga-connector",
+      "description":"GA Connector integrates Google Analytics and Google Ads with Salesforce, Zoho, Pipedrive, or any other CRM.",
+      "vendor":{
+         "name":"MarTech Solutions LLC",
+         "slug":"martech-solutions-llc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":265,
+      "name":"Zoho PageSense",
+      "slug":"zoho-pagesense",
+      "description":"Zoho PageSense is a conversion rate optimization and A/B testing platform.",
+      "vendor":{
+         "name":"Zoho Corporation Pvt. Ltd.",
+         "slug":"zoho-corporation-pvt-ltd"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "zps-ft-pghitType-details",
+         "zabUserId",
+         "zps-tgr-dts",
+         "zps-ft-details"
+      ]
+   },
+   {
+      "id":266,
+      "name":"Zoho Campaigns",
+      "slug":"zoho-campaigns",
+      "description":"Zoho Campaigns is an Advanced Email Marketing product of Zoho.",
+      "vendor":{
+         "name":"Zoho Corporation Pvt. Ltd.",
+         "slug":"zoho-corporation-pvt-ltd"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "zfccn"
+      ]
+   },
+   {
+      "id":267,
+      "name":"Zoho Marketing Automation",
+      "slug":"zoho-marketing-automation",
+      "description":"Zoho Marketing Automation is a multichannel software solution with features designed to ease the marketing process and generate sales-ready leads.",
+      "vendor":{
+         "name":"Zoho Corporation Pvt. Ltd.",
+         "slug":"zoho-corporation-pvt-ltd"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "zft-sdc"
+      ]
+   },
+   {
+      "id":290,
+      "name":"Burst Statistics",
+      "slug":"burst-statistics",
+      "description":"Burst Statistics is a user-friendly web analytics tool for WordPress websites. It focuses on essential metrics while keeping user privacy in mind.",
+      "vendor":null,
+      "popularity":"0.1",
+      "cookies":[
+         "burst_uid"
+      ]
+   },
+   {
+      "id":313,
+      "name":"Sparkloop",
+      "slug":"sparkloop",
+      "description":"",
+      "vendor":{
+         "name":"SparkLoop LLC",
+         "slug":"sparkloop-llc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":346,
+      "name":"Nielsen Marketing Cloud",
+      "slug":"nielsen-marketing-cloud",
+      "description":"A leading provider of data technology powering the digital marketing ecosystem. Its customer data cloud provides the industry’s only unified customer profiles, which connect identities across all channels and devices — including display, video, audio, offline, mobile, and smart TVs — enabling marketers to engage individuals and households with personalized messages to drive performance at scale.",
+      "vendor":{
+         "name":"Nielsen Media Research Ltd.",
+         "slug":"nielsen-media-research-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":374,
+      "name":"New Relic",
+      "slug":"new-relic",
+      "description":"New Relic is an observability platform used to monitor the performance of the website in real time. On the client side, it collects telemetry data such as page load times, JavaScript errors, and other performance metrics. This data helps identify technical issues and improve service reliability.",
+      "vendor":{
+         "name":"New Relic Inc.",
+         "slug":"new-relic-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "NRBA_SESSION"
+      ]
+   },
+   {
+      "id":444,
+      "name":"Apollo.io",
+      "slug":"apolloio",
+      "description":"Sales intelligence and engagement platform offering contact data, prospecting tools, and workflow automation.",
+      "vendor":{
+         "name":"Apollo.io, Inc.",
+         "slug":"apolloio-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "apolloAnonId",
+         "eventQueue"
+      ]
+   },
+   {
+      "id":445,
+      "name":"Cookiebot",
+      "slug":"cookiebot",
+      "description":"Consent management platform for collecting and storing user cookie preferences",
+      "vendor":{
+         "name":"Usercentrics A/S",
+         "slug":"usercentrics-as"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "CookieConsent"
+      ]
+   },
+   {
+      "id":446,
+      "name":"Azure Application Insights",
+      "slug":"azure-application-insights",
+      "description":"Performance monitoring and diagnostics service for web applications, helping developers detect, analyze, and resolve issues.",
+      "vendor":{
+         "name":"Microsoft Corporation",
+         "slug":"microsoft-corporation"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "ai_user",
+         "AI_buffer",
+         "AI_sentBuffer"
+      ]
+   },
+   {
+      "id":448,
+      "name":"Yandex Advertising Services",
+      "slug":"yandex-advertising-services",
+      "description":"",
+      "vendor":{
+         "name":"Yandex LLC",
+         "slug":"yandex-llc"
+      },
+      "popularity":"0.7",
+      "cookies":[
+         "yashr"
+      ]
+   },
+   {
+      "id":449,
+      "name":"Consentmanager CMP",
+      "slug":"consentmanager-cmp",
+      "description":"",
+      "vendor":{
+         "name":"consentmanager AB",
+         "slug":"consentmanager-ab"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "__cmpcc"
+      ]
+   },
+   {
+      "id":450,
+      "name":"Contentsquare",
+      "slug":"contentsquare",
+      "description":"Digital experience analytics platform providing session replay, heatmaps, and behavior insights to improve website usability.",
+      "vendor":{
+         "name":"Contentsquare SA",
+         "slug":"contentsquare-sa"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "_cs_s",
+         "_cs_c",
+         "_cs_id"
+      ]
+   },
+   {
+      "id":451,
+      "name":"hCaptcha",
+      "slug":"hcaptcha",
+      "description":"Bot-detection and anti-abuse service protecting websites from spam and automated attacks.",
+      "vendor":{
+         "name":"Intuition Machines, Inc",
+         "slug":"intuition-machines-inc"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "hmt_id"
+      ]
+   },
+   {
+      "id":455,
+      "name":"Optimizely",
+      "slug":"optimizely",
+      "description":"Digital experience platform offering A/B testing, experimentation, and personalization tools to optimize websites and apps.",
+      "vendor":{
+         "name":"Optimizely, Inc.",
+         "slug":"optimizely-inc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "optimizely_data",
+         "optimizelyEndUserId"
+      ]
+   },
+   {
+      "id":458,
+      "name":"PushOwl",
+      "slug":"pushowl",
+      "description":"Stores visitor ID, referrer, and prompt behavior to enable web push subscriptions, campaign attribution, and personalized messaging.",
+      "vendor":{
+         "name":"PushOwl Pte. Ltd.",
+         "slug":"pushowl-pte-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":459,
+      "name":"Global-e International Checkout & Localization Services",
+      "slug":"global-e-international-checkout-localization-services",
+      "description":"Global-e provides international e-commerce solutions that localize currency, shipping, pricing, and compliance for global customers—often integrated into Shopify, Magento, and other storefronts.",
+      "vendor":{
+         "name":"Global-e Online Ltd.",
+         "slug":"global-e-online-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":460,
+      "name":"Forter Fraud Prevention",
+      "slug":"forter-fraud-prevention",
+      "description":"Forter is a real-time fraud detection and trust platform used by many e-commerce sites (including Shopify Plus merchants). It analyzes behavioral and technical data to determine whether transactions or visitors are legitimate.",
+      "vendor":{
+         "name":"Forter, Inc.",
+         "slug":"forter-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":461,
+      "name":"AWS Elastic Load Balancing",
+      "slug":"aws-elastic-load-balancing",
+      "description":"AWS Elastic Load Balancing (ELB) automatically distributes incoming web traffic across multiple servers or services hosted on AWS.",
+      "vendor":{
+         "name":"Amazon Web Services, Inc.",
+         "slug":"amazon-web-services-inc"
+      },
+      "popularity":"2.0",
+      "cookies":[
+         "AWSALBCORS",
+         "AWSALB",
+         "AWSALBTG",
+         "AWSALBTGCORS"
+      ]
+   },
+   {
+      "id":462,
+      "name":"Shop App",
+      "slug":"shop-app",
+      "description":"Mobile shopping app by Shopify that enables users to track orders, browse products, and make purchases from Shopify-powered stores.",
+      "vendor":{
+         "name":"Shopify Inc.",
+         "slug":"shopify-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "_shop_app_essential"
+      ]
+   },
+   {
+      "id":465,
+      "name":"BidTheatre DSP",
+      "slug":"bidtheatre-dsp",
+      "description":"BidTheatre is a demand-side platform (DSP) that enables advertisers and agencies to run programmatic advertising campaigns.",
+      "vendor":{
+         "name":"BidTheatre AB",
+         "slug":"bidtheatre-ab"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":469,
+      "name":"Sentry Session Replay",
+      "slug":"sentry-session-replay",
+      "description":"Sentry Session Replay is a feature that records and replays user interactions in the browser, such as clicks, navigation, and page state, to help developers troubleshoot issues and improve user experience. These recordings provide context for errors and performance problems while allowing sensitive data masking to maintain privacy compliance.",
+      "vendor":{
+         "name":"Functional Software, Inc. (Sentry.io)",
+         "slug":"functional-software-inc-sentryio"
+      },
+      "popularity":"0.6",
+      "cookies":[
+         "sentryReplaySession"
+      ]
+   },
+   {
+      "id":673,
+      "name":"Glassbox",
+      "slug":"glassbox",
+      "description":"Glassbox is a digital experience analytics platform that records and analyzes user interactions on websites and applications. It helps businesses monitor performance, improve usability, and understand customer behavior while maintaining compliance with privacy regulations.",
+      "vendor":{
+         "name":"Glassbox Ltd.",
+         "slug":"glassbox-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":675,
+      "name":"ZoomInfo",
+      "slug":"zoominfo",
+      "description":"ZoomInfo is a B2B intelligence platform that provides data about companies and professionals. It helps organizations identify potential customers, enrich their contact databases, and analyze market opportunities.",
+      "vendor":{
+         "name":"ZoomInfo Technologies LLC",
+         "slug":"zoominfo-technologies-llc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "_zitok",
+         "ziwsSession",
+         "ziwsSessionId",
+         "unifiedScriptVerified",
+         "ziScriptSession",
+         "ziPendingTelemetry"
+      ]
+   },
+   {
+      "id":676,
+      "name":"Complianz",
+      "slug":"complianz",
+      "description":"Complianz is a consent management platform (CMP) for WordPress and other websites. It provides cookie banners, consent storage, and region-specific compliance features to help site owners meet requirements under GDPR, CCPA, and similar privacy regulations.",
+      "vendor":{
+         "name":"Complianz B.V.",
+         "slug":"complianz-bv"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "cmplz_policy_id",
+         "cmplz_statistics",
+         "cmplz_marketing",
+         "cmplz_consented_services",
+         "cmplz_preferences",
+         "cmplz_functional",
+         "cmplz_saved_services",
+         "cmplz_id",
+         "cmplz_user_data",
+         "cmplz_cookie_data",
+         "cmplz_saved_categories",
+         "cmplz_id"
+      ]
+   },
+   {
+      "id":677,
+      "name":"Dotdigital",
+      "slug":"dotdigital",
+      "description":"Dotdigital provides marketing automation, email campaigns, surveys, forms, landing pages, chat, and abandoned cart tools.",
+      "vendor":{
+         "name":"Dotdigital Group Plc",
+         "slug":"dotdigital-group-plc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "dmSessionID"
+      ]
+   },
+   {
+      "id":678,
+      "name":"CleanTalk Anti-Spam & Security",
+      "slug":"cleantalk-anti-spam-security",
+      "description":"CleanTalk provides cloud-based anti-spam and security services for websites and online forms. It helps block spam bots, detect suspicious activity, and protect login, comment, and registration forms without using captchas.",
+      "vendor":{
+         "name":"CleanTalk Inc.",
+         "slug":"cleantalk-inc"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "ct_checkjs",
+         "ct_pointer_data",
+         "ct_timezone",
+         "ct_ps_timestamp",
+         "ct_fkp_timestamp",
+         "ct_screen_info",
+         "apbct_headless",
+         "apbct_visible_fields",
+         "apbct_page_hits",
+         "ct_checked_emails",
+         "apbct_session_id",
+         "apbct_prev_referer",
+         "apbct_session_current_page",
+         "ct_checked_emails_exist",
+         "ct_mouse_moved",
+         "apbct_prev_referer",
+         "ct_pointer_data",
+         "apbct_iframes_protected",
+         "ct_timezone",
+         "apbct_timestamp",
+         "apbct_page_hits",
+         "ct_fkp_timestamp",
+         "ct_checked_emails",
+         "apbct_cookies_test",
+         "ct_ps_timestamp",
+         "apbct_pixel_url",
+         "ct_mouse_moved",
+         "apbct_headless",
+         "apbct_site_landing_ts",
+         "apbct_pixel_url",
+         "ct_checkjs",
+         "apbct_site_referer",
+         "ct_screen_info"
+      ]
+   },
+   {
+      "id":679,
+      "name":"Bugsnag",
+      "slug":"bugsnag",
+      "description":"Bugsnag is an error monitoring and crash reporting platform. It automatically detects, collects, and reports errors that occur in websites and applications. This helps developers diagnose technical issues, understand their impact on users, and improve overall stability and performance.",
+      "vendor":{
+         "name":"Bugsnag Inc.",
+         "slug":"bugsnag-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "bugsnag-anonymous-id"
+      ]
+   },
+   {
+      "id":680,
+      "name":"TrustArc",
+      "slug":"trustarc",
+      "description":"TrustArc Cookie Consent Manager is a consent management platform that helps websites comply with global privacy regulations such as GDPR, CCPA, and ePrivacy.",
+      "vendor":{
+         "name":"TrustArc",
+         "slug":"trustarc"
+      },
+      "popularity":"0.4",
+      "cookies":[
+         "TAsessionID"
+      ]
+   },
+   {
+      "id":681,
+      "name":"CookieScript",
+      "slug":"cookiescript",
+      "description":"",
+      "vendor":{
+         "name":"Objectis Ltd",
+         "slug":"objectis-ltd"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "CookieScriptConsent"
+      ]
+   },
+   {
+      "id":704,
+      "name":"Fundraise Up",
+      "slug":"fundraise-up",
+      "description":"Donation platform that optimizes online giving experiences for nonprofits. It provides secure donation processing, fraud prevention, and personalized user interactions. The service uses cookies to ensure core functionality, remember user preferences, and collect usage statistics to improve performance.",
+      "vendor":{
+         "name":"Fundraise Up Inc.",
+         "slug":"fundraise-up-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":705,
+      "name":"ClickDimensions",
+      "slug":"clickdimensions",
+      "description":"Marketing automation platform built for Microsoft Dynamics 365. It provides tools for email marketing, lead capture, web analytics, campaign automation, and customer engagement tracking.",
+      "vendor":{
+         "name":"ClickDimensions, LLC",
+         "slug":"clickdimensions-llc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "cuvon",
+         "cusid"
+      ]
+   },
+   {
+      "id":715,
+      "name":"GoDaddy Domain Parking",
+      "slug":"godaddy-domain-parking",
+      "description":"Operated by GoDaddy to manage domain parking pages and display advertising on them. The service uses cookies to identify visitors, determine their location, and deliver relevant advertising.",
+      "vendor":{
+         "name":"GoDaddy.com, LLC",
+         "slug":"godaddycom-llc"
+      },
+      "popularity":"0.8",
+      "cookies":[
+         "caf_ipaddr",
+         "traffic_target",
+         "pvisitor",
+         "pwvisitor",
+         "expiry_partner"
+      ]
+   },
+   {
+      "id":716,
+      "name":"Stape (server-side tagging)",
+      "slug":"stape-server-side-tagging",
+      "description":"A server-side Google Tag Manager (sGTM) hosting provider. Stape helps websites manage and deliver tracking scripts in a more privacy-friendly and efficient way by moving most tracking logic from the browser to secure servers.",
+      "vendor":{
+         "name":"Stape Inc.",
+         "slug":"stape-inc"
+      },
+      "popularity":"0.5",
+      "cookies":[
+         "cee",
+         "_dcid"
+      ]
+   },
+   {
+      "id":717,
+      "name":"Facebook Login",
+      "slug":"facebook-login",
+      "description":"This service is provided by Meta Platforms, Inc. and allows users to sign in to websites and apps using their Facebook account. Facebook Login simplifies authentication by offering single sign-on (SSO) across platforms.",
+      "vendor":{
+         "name":"Meta Platforms",
+         "slug":"meta-platforms"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "fbssls_"
+      ]
+   },
+   {
+      "id":718,
+      "name":"Proof Factor",
+      "slug":"proof-factor",
+      "description":"This service provides on-site marketing tools such as social proof notifications, coupon boxes, and promotional popups. It uses cookies to track visitor sessions and page interactions in order to display targeted engagement campaigns, measure performance, and improve conversion rates.",
+      "vendor":{
+         "name":"Proof Factor, Inc.",
+         "slug":"proof-factor-inc"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "pf_ptc_"
+      ]
+   },
+   {
+      "id":719,
+      "name":"Google Docs",
+      "slug":"google-docs",
+      "description":"Google Docs is part of the Google Workspace suite and provides cloud-based word processing, collaboration, and document editing. The service uses cookies to enable real-time editing, maintain user sessions, remember preferences, and ensure documents are saved and shared securely.",
+      "vendor":{
+         "name":"Google LLC",
+         "slug":"google-llc"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "COMPASS"
+      ]
+   },
+   {
+      "id":720,
+      "name":"Gemius Audience Measurement",
+      "slug":"gemius-audience-measurement",
+      "description":"Gemius Audience Measurement is a web analytics and market research service operated by Gemius S.A. It provides publishers and advertisers with insights into website traffic, user behavior, and advertising effectiveness.",
+      "vendor":{
+         "name":"Gemius SA",
+         "slug":"gemius-sa"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "Gtest"
+      ]
+   },
+   {
+      "id":721,
+      "name":"Post Affiliate Pro",
+      "slug":"post-affiliate-pro",
+      "description":"Post Affiliate Pro is an affiliate tracking and management platform provided by Quality Unit, s.r.o. It is used by businesses to manage partnerships with affiliates and to track referrals, sales, and conversions.",
+      "vendor":{
+         "name":"Quality Unit, s.r.o.",
+         "slug":"quality-unit-sro"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "PAPVisitorId"
+      ]
+   },
+   {
+      "id":722,
+      "name":"Duda Smart Sites",
+      "slug":"duda-smart-sites",
+      "description":"Duda Smart Sites is a personalization feature provided by Duda, Inc. It uses cookies to measure visits, page views, and visitor details such as last visit time and time zone. This information allows websites built with Duda to adapt their content for new or returning visitors, show personalized messages, and improve the overall browsing experience.",
+      "vendor":{
+         "name":"Duda, Inc.",
+         "slug":"duda-inc"
+      },
+      "popularity":"0.3",
+      "cookies":[
+         "dm_total_visits",
+         "dm_this_page_view",
+         "dm_last_page_view",
+         "dm_last_visit",
+         "dm_timezone_offset"
+      ]
+   },
+   {
+      "id":723,
+      "name":"TermsFeed Privacy Consent",
+      "slug":"termsfeed-privacy-consent",
+      "description":"TermsFeed provides a cookie consent management solution that allows websites to display a cookie banner and collect user preferences in line with privacy regulations such as GDPR and CCPA.",
+      "vendor":{
+         "name":"TermsFeed",
+         "slug":"termsfeed"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "cookie_consent_level"
+      ]
+   },
+   {
+      "id":724,
+      "name":"Poptin",
+      "slug":"poptin",
+      "description":"Poptin provides website popups, forms, and bars designed to capture leads, grow email lists, and improve visitor engagement.",
+      "vendor":{
+         "name":"Poptin Ltd.",
+         "slug":"poptin-ltd"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "poptin_user_id",
+         "poptin_old_user",
+         "poptin_session",
+         "poptin_previous_url",
+         "poptin_new_user",
+         "poptin_all_visited_pages",
+         "poptin_origin_landing_page",
+         "poptin_custom_new_visitor_session",
+         "poptin_client_id",
+         "poptin_user_country_code",
+         "poptin_pageviews_",
+         "poptin_session_account_",
+         "poptin_user_ip",
+         "poptin_o_",
+         "poptin_every_visit_session",
+         "poptin_c_visitor",
+         "poptin_last_visit"
+      ]
+   },
+   {
+      "id":725,
+      "name":"Zoho SalesIQ",
+      "slug":"zoho-salesiq",
+      "description":"Zoho SalesIQ is a live chat and visitor tracking service provided by Zoho Corporation.",
+      "vendor":{
+         "name":"Zoho Corporation Pvt. Ltd.",
+         "slug":"zoho-corporation-pvt-ltd"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "uesign"
+      ]
+   },
+   {
+      "id":726,
+      "name":"OptiMonk",
+      "slug":"optimonk",
+      "description":"OptiMonk is a website personalization and conversion optimization platform that provides popups, on-site messages, and targeted campaigns.",
+      "vendor":{
+         "name":"OptiMonk International Zrt.",
+         "slug":"optimonk-international-zrt"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "optiMonkClientId",
+         "OptiMonkShopAttributes",
+         "OptiMonkVisitorAttributes",
+         "optiMonkClient",
+         "optiMonkSession"
+      ]
+   },
+   {
+      "id":727,
+      "name":"LeadConnector",
+      "slug":"leadconnector",
+      "description":"LeadConnector is a marketing, sales, and automation platform that provides funnels, websites, chat widgets, surveys, calendars, and e-commerce tools.",
+      "vendor":{
+         "name":"LeadConnector, LLC.",
+         "slug":"leadconnector-llc"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "msgsndr_id",
+         "v3_first_session_event_",
+         "v2_contact_session_",
+         "v2_history_",
+         "v2_session_history_"
+      ]
+   },
+   {
+      "id":728,
+      "name":"ConvertBox",
+      "slug":"convertbox",
+      "description":"ConvertBox is an on-site engagement and lead capture platform that allows websites to display personalized messages, popups, and forms based on visitor behavior.",
+      "vendor":{
+         "name":"ThriveCart LLC.",
+         "slug":"thrivecart-llc"
+      },
+      "popularity":"0.1",
+      "cookies":[
+         "__storejs_"
+      ]
+   },
+   {
+      "id":729,
+      "name":"Senja",
+      "slug":"senja",
+      "description":"Senja is a testimonial and social proof platform that helps businesses collect, manage, and display customer feedback across websites and marketing channels.",
+      "vendor":{
+         "name":"Senja Proof LTD",
+         "slug":"senja-proof-ltd"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":754,
+      "name":"CookieFirst",
+      "slug":"cookiefirst",
+      "description":"Consent management platform for collecting and storing user cookie preferences",
+      "vendor":{
+         "name":"Digital Data Solutions BV",
+         "slug":"digital-data-solutions-bv"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":841,
+      "name":"Snitcher",
+      "slug":"snitcher",
+      "description":"Snitcher (including its Radar service) is used to identify and analyze website visitors at a company level. The service enriches website traffic with business intelligence data, supports session analysis, and helps organizations understand how companies interact with their website for marketing, sales, and optimization purposes.",
+      "vendor":{
+         "name":"Snitcher B.V.",
+         "slug":"snitcher-bv"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":858,
+      "name":"Flowbox (UGC and social proof)",
+      "slug":"flowbox-ugc-and-social-proof",
+      "description":"",
+      "vendor":{
+         "name":"Flowbox AB",
+         "slug":"flowbox-ab"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":859,
+      "name":"Elevar",
+      "slug":"elevar",
+      "description":"",
+      "vendor":{
+         "name":"Elevar, LLC",
+         "slug":"elevar-llc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":860,
+      "name":"Stylux",
+      "slug":"stylux",
+      "description":"",
+      "vendor":{
+         "name":"Stylux",
+         "slug":"stylux"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":861,
+      "name":"UserWay (accessibility widget)",
+      "slug":"userway-accessibility-widget",
+      "description":"",
+      "vendor":{
+         "name":"UserWay Inc.,",
+         "slug":"userway-inc"
+      },
+      "popularity":"0.2",
+      "cookies":[
+         "uw-icon-locales",
+         "uw-uid",
+         "uw-tunings-checksum",
+         "uw-tunings"
+      ]
+   },
+   {
+      "id":862,
+      "name":"Claritas (formerly Barometric)",
+      "slug":"claritas-formerly-barometric",
+      "description":"Advertising measurement and audience targeting",
+      "vendor":{
+         "name":"Claritas, LLC",
+         "slug":"claritas-llc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   },
+   {
+      "id":863,
+      "name":"LiveIntent",
+      "slug":"liveintent",
+      "description":"Advertising platform used to enable targeted advertising and campaign measurement using first-party identifiers.",
+      "vendor":{
+         "name":"LiveIntent, Inc.",
+         "slug":"liveintent-inc"
+      },
+      "popularity":"0.0",
+      "cookies":[
+         
+      ]
+   }
+]
