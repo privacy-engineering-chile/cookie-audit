@@ -41,7 +41,7 @@ export function buildJsonOutput(input: BuildJsonInput) {
       url: input.url,
       scanId: uuidv4(),
       timestamp: now.toISOString(),
-      version: '0.3.0',
+      version: '0.5.0',
       durationMs: input.durationMs
     },
 

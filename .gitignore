@@ -5,3 +5,4 @@ dist
 *.log
 reports
 !src/db/*.json
+*.json

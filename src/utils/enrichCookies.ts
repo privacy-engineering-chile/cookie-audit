@@ -15,7 +15,10 @@ export function enrichCookies(cookies: Cookie[], url: string): CookieDTO[] {
       secure: cookie.secure
     });
 
-    const legalBasis = mapLegalBasis(classification.category);
+    const legalBasis = mapLegalBasis({
+      category: classification.category,
+      name: cookie.name,
+    });
 
     return {
       ...cookie,
