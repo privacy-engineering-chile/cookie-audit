@@ -1,13 +1,22 @@
-import fs from 'fs';
-import path from 'path';
+import { mkdirSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
 
-export function saveJsonToFile(data: any, url: string) {
-  const safeName = url.replace(/https?:\/\//, '').replace(/[^\w]/g, '_');
-  const fileName = `cookie-audit-${safeName}.json`;
+function safeFilename(url: string): string {
+  return url
+    .replace(/^https?:\/\//, '')
+    .replace(/\/$/, '')
+    .replace(/[^a-zA-Z0-9.-]+/g, '_');
+}
 
-  const filePath = path.join(process.cwd(), fileName);
+export function saveJsonToFile(json: unknown, url: string) {
+  const outputDir = process.env.COOKIE_AUDIT_OUTPUT_DIR ?? './scans';
 
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+  mkdirSync(outputDir, { recursive: true });
 
-  console.log(`\n📄 JSON report saved: ${filePath}`);
+  const filename = `${safeFilename(url)}-${Date.now()}.json`;
+  const path = join(outputDir, filename);
+
+  writeFileSync(path, JSON.stringify(json, null, 2), 'utf8');
+
+  console.log(`💾 JSON saved: ${path}`);
 }
