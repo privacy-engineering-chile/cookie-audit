@@ -1,6 +1,7 @@
-https://banco.santander.cl/personas
-https://www.itau.cl/personas
-https://www.scotiabankchile.cl/
-https://www.bancofalabella.cl/
-https://www.tenpo.cl/
-https://www.fintual.cl
+AFC Chile;AFP;https://www.afc.cl/
+AFP Capital;AFP;https://www.afpcapital.cl/
+AFP Cuprum;AFP;https://www6.cuprum.cl/
+AFP Habitat;AFP;https://www.afphabitat.cl/
+AFP Modelo;AFP;https://nueva.afpmodelo.cl/afiliados
+AFP Provida;AFP;https://www.provida.cl/
+AFP Uno;AFP;https://www.uno.cl/
