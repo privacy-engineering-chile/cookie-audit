@@ -4,5 +4,6 @@ dist
 .DS_Store
 *.log
 reports
+src/scripts/
 !src/db/*.json
 *.json
